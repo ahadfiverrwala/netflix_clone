@@ -1,0 +1,34 @@
+[11-Apr-2025 20:35:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php:9
+Stack trace:
+#0 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php(9): mysqli->__construct('dbpgej2i0xxxom', 'u8gr0sjr9p4p4', Object(SensitiveParameterValue), 'dbpgej2i0xxxom')
+#1 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/signup.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 9
+[11-Apr-2025 20:35:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php:9
+Stack trace:
+#0 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php(9): mysqli->__construct('dbpgej2i0xxxom', 'u8gr0sjr9p4p4', Object(SensitiveParameterValue), 'dbpgej2i0xxxom')
+#1 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/signup.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 9
+[11-Apr-2025 20:36:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php:9
+Stack trace:
+#0 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php(9): mysqli->__construct('dbpgej2i0xxxom', 'u8gr0sjr9p4p4', Object(SensitiveParameterValue), 'dbpgej2i0xxxom')
+#1 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/signup.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 9
+[11-Apr-2025 20:36:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php:9
+Stack trace:
+#0 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php(9): mysqli->__construct('dbpgej2i0xxxom', 'u8gr0sjr9p4p4', Object(SensitiveParameterValue), 'dbpgej2i0xxxom')
+#1 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/signup.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 9
+[11-Apr-2025 20:36:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php:9
+Stack trace:
+#0 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php(9): mysqli->__construct('dbpgej2i0xxxom', 'u8gr0sjr9p4p4', Object(SensitiveParameterValue), 'dbpgej2i0xxxom')
+#1 /home/customer/www/rsoa116.rehan.school/public_html/netfilx/signup.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 9
+[11-Apr-2025 20:40:33 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 15
+[11-Apr-2025 20:42:38 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 15
+[11-Apr-2025 20:42:46 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 15
+[12-Apr-2025 09:33:17 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbpgej2i0xxxom failed: Name or service not known in /home/customer/www/rsoa116.rehan.school/public_html/netfilx/db_connect.php on line 15
